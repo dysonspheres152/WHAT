@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.*
+*.log
+.vscode/
+.idea/
+# The anon key in config.js is public by design and must be committed for GitHub Pages.
+# Never commit a service_role key anywhere.
